@@ -38,13 +38,14 @@ Collected from:
 
 🧬 Hybrid architectures combining CNN/RNN with Transformers
 
-🔗 References
+
+## 🔗 References
 https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset
 
 https://github.com/MuhamedAhmed11/Akhbarona-News-Classification
 
 https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5516945
-Arabic Fake News Detection Research Paper
+
 
 ## 👤 Authors
 Aya Tamer Ginidy
